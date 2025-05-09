@@ -2,23 +2,22 @@
 
 Witam! Jestem Albert, mam 25 lat i pracuje jako Specjalista ds. Handlu i Logistyki. W aktualnej pracy:
 
-- Obsluguje proces od zamowienia po wysylke towaru a takze administruje sklep B2B (Weryfikacja zamowien klientow, wysylka, zwroty towarow, rozwiazywanie problemow klientow zwiazanych z zamowieniem czy sklepem B2B)
-- Tworze i analizuje dokumenty handlowe (WZ, PZ, FV)
+- Obsługuje proces od zamówienia po wysyłkę towaru a także administruje sklep B2B (Weryfikacja zamówień klientów, wysyłka, zwroty towarów, rozwiązywanie problemów klientów związanych z zamówieniem czy sklepem B2B)
+- Sporządzam i analizuje dokumenty handlowe (WZ, PZ, FV)
 - Bralem udzial w pracach na magazynie (Kompletacja zamowiec, przyjecia towarow od dostawcow)
-- Pracowalem w tej samej firmie na produkcji (Ciecie prowadnic liniowych wraz z odpowiednia dokumentacja, walkow i srub kulowych)
+- Pracowałem w tej samej firmie na produkcji (Cięcie prowadnic liniowych wraz z odpowiednia dokumentacja, wałków i śrub kulowych)
 
-Chce rozwijac sie w kierunku Konsultanta ERP/WMS lub analityka procesow. To repozytorium pokazuje moje podejscie od dokumentowania, mapowania i analizowania procesow.
+Chce rozwijać się w kierunku Konsultanta ERP/WMS lub Helpdesk na pierwszej linii wsparcia. To repozytorium pokazuje moje podejście od dokumentowania, mapowania i analizowania procesów biznesowych w firmie w której aktualnie się znajduje.
 
 ---
 
 ## 01. Proces "Zamowienie i wysylka"
 
 - Mapa procesu BPMN (Lucidchart)
-- Opis krokow w systemie (ERP)
+- Opis kroków w systemie (ERP)
 
-## 02. Proces "Dzialanie Magazynu Wydan i Przyjec"
+## 02. Proces "Działanie Magazynu Wydań i Przyjęć"
 
-- Mapa procesu kompletacji i przyjec towaru
-- Instrukcja przyjecia towaru na magazyn
-- Schemat przeplywu dokumentow PZ i WZ
-
+- Mapa procesu kompletacji i przyjęć towaru
+- Instrukcja przyjęcia towaru na magazyn
+- Schemat przepływu dokumentów PZ i WZ
